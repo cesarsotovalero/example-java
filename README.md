@@ -63,3 +63,5 @@ We are happy to help if you have any questions. Please contact email our Support
 [3]: https://github.com/codecov/example-android
 [4]: https://github.com/codecov/example-java-maven
 [5]: https://docs.codecov.io/docs/about-the-codecov-bash-uploader#section-upload-token
+
+---
